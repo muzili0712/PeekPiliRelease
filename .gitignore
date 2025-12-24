@@ -54,3 +54,6 @@ secrets/
 release/*.tmp
 release/*.temp
 
+# 发布脚本文件夹
+scripts/
+
